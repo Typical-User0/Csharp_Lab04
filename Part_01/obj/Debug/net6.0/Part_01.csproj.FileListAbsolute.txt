@@ -1,0 +1,14 @@
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/bin/Debug/net6.0/Part_01
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/bin/Debug/net6.0/Part_01.deps.json
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/bin/Debug/net6.0/Part_01.runtimeconfig.json
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/bin/Debug/net6.0/Part_01.dll
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/bin/Debug/net6.0/Part_01.pdb
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.AssemblyInfoInputs.cache
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.AssemblyInfo.cs
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.csproj.CoreCompileInputs.cache
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.dll
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/obj/Debug/net6.0/refint/Part_01.dll
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.pdb
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/obj/Debug/net6.0/Part_01.genruntimeconfig.cache
+/Users/george/Downloads/Telegram Desktop/Lab_04/Lab_04/obj/Debug/net6.0/ref/Part_01.dll

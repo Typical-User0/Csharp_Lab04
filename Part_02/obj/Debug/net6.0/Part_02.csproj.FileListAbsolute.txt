@@ -1,0 +1,28 @@
+C:/Users/seraf/source/repos/Lab_04/Part_02/bin/Debug/net6.0/Part_02.exe
+C:/Users/seraf/source/repos/Lab_04/Part_02/bin/Debug/net6.0/Part_02.deps.json
+C:/Users/seraf/source/repos/Lab_04/Part_02/bin/Debug/net6.0/Part_02.runtimeconfig.json
+C:/Users/seraf/source/repos/Lab_04/Part_02/bin/Debug/net6.0/Part_02.dll
+C:/Users/seraf/source/repos/Lab_04/Part_02/bin/Debug/net6.0/Part_02.pdb
+C:/Users/seraf/source/repos/Lab_04/Part_02/obj/Debug/net6.0/Part_02.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/seraf/source/repos/Lab_04/Part_02/obj/Debug/net6.0/Part_02.AssemblyInfoInputs.cache
+C:/Users/seraf/source/repos/Lab_04/Part_02/obj/Debug/net6.0/Part_02.AssemblyInfo.cs
+C:/Users/seraf/source/repos/Lab_04/Part_02/obj/Debug/net6.0/Part_02.csproj.CoreCompileInputs.cache
+C:/Users/seraf/source/repos/Lab_04/Part_02/obj/Debug/net6.0/Part_02.dll
+C:/Users/seraf/source/repos/Lab_04/Part_02/obj/Debug/net6.0/refint/Part_02.dll
+C:/Users/seraf/source/repos/Lab_04/Part_02/obj/Debug/net6.0/Part_02.pdb
+C:/Users/seraf/source/repos/Lab_04/Part_02/obj/Debug/net6.0/Part_02.genruntimeconfig.cache
+C:/Users/seraf/source/repos/Lab_04/Part_02/obj/Debug/net6.0/ref/Part_02.dll
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/bin/Debug/net6.0/Part_02
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/bin/Debug/net6.0/Part_02.deps.json
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/bin/Debug/net6.0/Part_02.runtimeconfig.json
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/bin/Debug/net6.0/Part_02.dll
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/bin/Debug/net6.0/Part_02.pdb
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/obj/Debug/net6.0/Part_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/obj/Debug/net6.0/Part_02.AssemblyInfoInputs.cache
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/obj/Debug/net6.0/Part_02.AssemblyInfo.cs
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/obj/Debug/net6.0/Part_02.csproj.CoreCompileInputs.cache
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/obj/Debug/net6.0/Part_02.dll
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/obj/Debug/net6.0/refint/Part_02.dll
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/obj/Debug/net6.0/Part_02.pdb
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/obj/Debug/net6.0/Part_02.genruntimeconfig.cache
+/Users/george/Downloads/Telegram Desktop/Lab_04/Part_02/obj/Debug/net6.0/ref/Part_02.dll
